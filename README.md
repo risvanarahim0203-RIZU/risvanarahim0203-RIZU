@@ -1,6 +1,7 @@
 Hi there 👋
 
-Risvana J. A. | Data & Business Analytics Professional.
+Risvana J. A. | Data & Business Analytics Professional
+
 Business Management  | ERP Specialist  | AI & Automation Enthusiast
 
 I am a Bachelor of Business Management (BBM) professional with 5 years of professional experience across inventory operations, insurance claims, and financial administration. My expertise lies in transforming operational data into strategic business assets by bridging traditional ERP mastery  with modern, AI-powered analytical tools.
