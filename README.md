@@ -1,4 +1,4 @@
-Hi there 👋 I am Risvana J. A.
+Hi there 👋, I am Risvana. 
 
 Data & Business Analytics Professional | Business Management  | ERP Specialist  | AI & Automation Enthusiast
 
@@ -11,6 +11,7 @@ Management Core: Thorough understanding of business administration principles , 
 Operational Track Record: 5 years of proven success in high-volume environments at Gold Apple Box LLC , AIG Insurance , and Pure Health.
 
 🛠️ Technical Ecosystem
+
 Data & Business Analytics
 
 Visualization: Developing interactive dashboards and financial reports for data-driven decisions.
