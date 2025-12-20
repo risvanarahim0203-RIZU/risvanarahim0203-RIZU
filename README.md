@@ -22,17 +22,16 @@ Advanced Analytics: Implementing AI-powered business analysis and large-scale da
 Version Control: Managing analytical projects, VS Code environments, and collaborative workflows.
 
 Enterprise Operations (ERP) & Ops
+
 Core ERP Systems: Expert-level proficiency in Microsoft Dynamics AX (Axapta).
 
-Specialized Platforms: Skilled in PREMIA , NAVINS , and OneView  for claims and data management.
-
-
-
+Specialized Platforms: Skilled in PREMIA, NAVINS, and OneView  for claims and data management
 
 Productivity & Audit: Advanced use of Microsoft 365 (Excel, Teams, Outlook) for audit readiness and process improvement.
 
 
 💼 Career Focus
+
 With a solid foundation in Business Management and 5 years of hands-on experience  in high-stakes operational environments, my focus is on bridging the gap between traditional administration and AI-powered business intelligence. I am dedicated to transforming raw operational data into strategic assets—utilizing SQL and Power BI to automate complex reconciliation processes and Databricks to deliver predictive business insights. My goal is to drive organizational efficiency by ensuring 100% data accuracy  and implementing scalable, tech-driven solutions for modern supply chain and financial challenges.
 
 
