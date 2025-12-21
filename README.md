@@ -19,32 +19,17 @@
 ###
 
 <div align="left">
+<p align="left">
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="40"/>
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40"/>
+  <img src="https://cdn.simpleicons.org/databricks/FF3621" height="40"/>
+  <img src="https://cdn.simpleicons.org/openai/FFFFFF" height="40"/>
+  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="40"/>
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="40"/>
+  <img src="https://cdn.simpleicons.org/google/34A853" height="40"/>
+</p>
+ 
 
-  <!-- Excel -->
-<img src="https://skillicons.dev/icons?i=excel" height="40" alt="excel logo" />
-<img width="12" />
-
-<!-- Power BI -->
-<img src="https://skillicons.dev/icons?i=powerbi" height="40" alt="powerbi logo" />
-<img width="12" />
-
-<!-- Databricks -->
-<img src="https://skillicons.dev/icons?i=databricks" height="40" alt="databricks logo" />
-<img width="12" />
-
-<!-- ChatGPT / OpenAI -->
-<img src="https://skillicons.dev/icons?i=openai" height="40" alt="chatgpt logo" />
-<img width="12" />
-
-<!-- Cloud (choose one) -->
-<img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws cloud logo" />
-<img width="12" />
-
-<img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure cloud logo" />
-<img width="12" />
-
-<img src="https://skillicons.dev/icons?i=gcp" height="40" alt="gcp cloud logo" />
-<img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
