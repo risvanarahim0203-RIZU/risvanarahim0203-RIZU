@@ -19,46 +19,68 @@
 ###
 
 <p align="left">
-## 🛠️ Tools, Technologies & Platforms
 
-### 🧠 Data • AI • Analytics
-<p align="left">
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/databricks/databricks-original.svg" height="38"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" height="38"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlegemini.svg" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="38"/>
-</p>
+## 🛠️ Tools & Technologies
 
-### 💻 Programming & Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38"/>
-  <img src="https://cdn.simpleicons.org/mysql/FFFFFF" height="38"/>
-  <img src="https://skillicons.dev/icons?i=github" height="38"/>
-</p>
 
-### 📊 Data Science & Machine Learning
-<p align="left">
-  <img src="https://cdn.simpleicons.org/numpy/FFFFFF" height="38"/>
-  <img src="https://cdn.simpleicons.org/pandas/FFFFFF" height="38"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="38"/>
-  <img src="https://cdn.simpleicons.org/pytorch/FFFFFF" height="38"/>
-</p>
+<!-- VS Code -->
+<svg width="38" height="38" viewBox="0 0 24 24" fill="#ffffff"><path d="M17.2 2.3L9.6 9.1 6.2 6.3 4 7.9l3.6 3.6L4 15.1l2.2 1.6 3.4-2.8 7.6 6.8 2.8-1V3.3z"/></svg>
 
-### ☁️ Cloud & Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=azure" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="38"/>
-</p>
+<!-- Python -->
+<svg width="38" height="38" viewBox="0 0 24 24" fill="#ffffff"><path d="M12 2c-4 0-4 3-4 3v3h8v2H6s-4 0-4 4 4 4 4 4h2v-3h8s4 0 4-4V6s0-4-4-4z"/></svg>
 
-### 🎨 Design & Productivity
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ai" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="38"/>
-  <img src="https://cdn.simpleicons.org/notion/FFFFFF" height="38"/>
-  <img src="https://skillicons.dev/icons?i=discord" height="38"/>
+<!-- MySQL -->
+<svg width="38" height="38" viewBox="0 0 24 24" fill="#ffffff"><path d="M5 3h14v2H5zm0 4h14v2H5zm0 4h10v2H5z"/></svg>
+
+<!-- Power BI -->
+<svg width="38" height="38" viewBox="0 0 24 24" fill="#ffffff"><rect x="3" y="10" width="3" height="10"/><rect x="8" y="6" width="3" height="14"/><rect x="13" y="3" width="3" height="17"/></svg>
+
+<!-- Databricks -->
+<svg width="38" height="38" viewBox="0 0 24 24" fill="#ffffff"><path d="M12 2L2 7l10 5 10-5-10-5zm0 7L2 14l10 5 10-5-10-5z"/></svg>
+
+<!-- ChatGPT -->
+<svg width="38" height="38" viewBox="0 0 24 24" fill="#ffffff"><path d="M12 2a5 5 0 015 5v2a5 5 0 01-5 5H9a5 5 0 01-5-5V7a5 5 0 015-5z"/></svg>
+
+<!-- Gemini -->
+<svg width="38" height="38" viewBox="0 0 24 24" fill="#ffffff"><path d="M12 2l4 8-4 12-4-12 4-8z"/></svg>
+
+<!-- NotebookLM -->
+<svg width="38" height="38" viewBox="0 0 24 24" fill="#ffffff"><rect x="4" y="3" width="16" height="18"/><line x1="8" y1="7" x2="16" y2="7" stroke="#000" stroke-width="1"/></svg>
+
+<!-- NumPy -->
+<svg width="38" height="38" viewBox="0 0 24 24" fill="#ffffff"><polygon points="12,2 22,12 12,22 2,12"/></svg>
+
+<!-- Pandas -->
+<svg width="38" height="38" viewBox="0 0 24 24" fill="#ffffff"><rect x="5" y="3" width="3" height="18"/><rect x="10" y="6" width="3" height="12"/><rect x="15" y="9" width="3" height="6"/></svg>
+
+<!-- TensorFlow -->
+<svg width="38" height="38" viewBox="0 0 24 24" fill="#ffffff"><path d="M4 4h16v4H14v12h-4V8H4z"/></svg>
+
+<!-- PyTorch -->
+<svg width="38" height="38" viewBox="0 0 24 24" fill="#ffffff"><circle cx="12" cy="12" r="4"/></svg>
+
+<!-- Azure -->
+<svg width="38" height="38" viewBox="0 0 24 24" fill="#ffffff"><path d="M3 20L10 4l4 8H8l-5 8z"/></svg>
+
+<!-- Google Cloud -->
+<svg width="38" height="38" viewBox="0 0 24 24" fill="#ffffff"><circle cx="12" cy="12" r="10"/></svg>
+
+<!-- Firebase -->
+<svg width="38" height="38" viewBox="0 0 24 24" fill="#ffffff"><polygon points="5,21 19,21 12,3"/></svg>
+
+<!-- GitHub -->
+<svg width="38" height="38" viewBox="0 0 24 24" fill="#ffffff"><circle cx="12" cy="12" r="10"/></svg>
+
+<!-- Figma -->
+<svg width="38" height="38" viewBox="0 0 24 24" fill="#ffffff"><circle cx="12" cy="6" r="4"/><circle cx="12" cy="12" r="4"/><circle cx="12" cy="18" r="4"/></svg>
+
+<!-- Notion -->
+<svg width="38" height="38" viewBox="0 0 24 24" fill="#ffffff"><rect x="4" y="4" width="16" height="16"/></svg>
+
+<!-- Discord -->
+<svg width="38" height="38" viewBox="0 0 24 24" fill="#ffffff"><path d="M6 18c4 2 8 2 12 0l-2-6H8z"/></svg>
+
 </p>
 
  
