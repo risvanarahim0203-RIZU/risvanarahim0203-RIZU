@@ -87,7 +87,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/risvanarahim0203-RIZU/risvanarahim0203-RIZU/output/snake.svg" alt="Snake animation" />
+![GitHub Snake Animation](https://risvanarahim0203-RIZU.github.io/risvanarahim0203-RIZU/github-contribution-grid-snake.svg)
+
 
 ###
 
