@@ -39,26 +39,21 @@ My goal is to bridge traditional business administration with AI-powered busines
 <h2 align="left">🛠️ Skills & Technologies</h2>
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/microsoftexcel/FFFFFF" height="36"/>
-  <img src="https://cdn.simpleicons.org/powerbi/FFFFFF" height="36"/>
-  <img src="https://cdn.simpleicons.org/databricks/FFFFFF" height="36"/>
-  <img src="https://cdn.simpleicons.org/openai/FFFFFF" height="36"/>
-  <img src="https://cdn.simpleicons.org/googlegemini/FFFFFF" height="36"/>
-  <img src="https://cdn.simpleicons.org/google/FFFFFF" height="36"/>
-  <img src="https://cdn.simpleicons.org/visualstudiocode/FFFFFF" height="36"/>
-  <img src="https://cdn.simpleicons.org/python/FFFFFF" height="36"/>
-  <img src="https://cdn.simpleicons.org/mysql/FFFFFF" height="36"/>
-  <img src="https://cdn.simpleicons.org/numpy/FFFFFF" height="36"/>
-  <img src="https://cdn.simpleicons.org/pandas/FFFFFF" height="36"/>
-  <img src="https://cdn.simpleicons.org/tensorflow/FFFFFF" height="36"/>
-  <img src="https://cdn.simpleicons.org/pytorch/FFFFFF" height="36"/>
-  <img src="https://cdn.simpleicons.org/microsoftazure/FFFFFF" height="36"/>
-  <img src="https://cdn.simpleicons.org/googlecloud/FFFFFF" height="36"/>
-  <img src="https://cdn.simpleicons.org/firebase/FFFFFF" height="36"/>
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="36"/>
-  <img src="https://cdn.simpleicons.org/figma/FFFFFF" height="36"/>
-  <img src="https://cdn.simpleicons.org/notion/FFFFFF" height="36"/>
-  <img src="https://cdn.simpleicons.org/discord/FFFFFF" height="36"/>
+  ### 🛠️ Technical Ecosystem
+
+**📊 Data & Business Analytics**
+| Tool | Proficiency | Badge |
+| :--- | :--- | :--- |
+| **Excel** | Advanced / Modeling | ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) |
+| **Power BI** | Dashboards / DAX | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=microsoft-power-bi&logoColor=black) |
+| **SQL** | Queries / Data Ops | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Python** | Automation / Analysis | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Databricks** | AI / Big Data | ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) |
+
+**⚙️ Enterprise Operations**
+* ![Dynamics](https://img.shields.io/badge/Microsoft_Dynamics_AX-00A4EF?style=flat-square&logo=microsoft-dynamics&logoColor=white) **ERP Expert**
+* ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) **Version Control**
+* ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) **Development**
 </p>
 
 ---
