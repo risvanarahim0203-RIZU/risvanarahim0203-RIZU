@@ -18,16 +18,29 @@
 
 ###
 
-<div align="left">
 <p align="left">
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="40"/>
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40"/>
-  <img src="https://cdn.simpleicons.org/databricks/FF3621" height="40"/>
-  <img src="https://cdn.simpleicons.org/openai/FFFFFF" height="40"/>
-  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="40"/>
-  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="40"/>
-  <img src="https://cdn.simpleicons.org/google/34A853" height="40"/>
+  <!-- Excel -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="Excel"/>
+  
+  <!-- Power BI -->
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="40" alt="Power BI"/>
+
+  <!-- Databricks -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/databricks/databricks-original.svg" height="40" alt="Databricks"/>
+
+  <!-- ChatGPT -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" height="40" alt="ChatGPT"/>
+
+  <!-- Cloud -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="40" alt="Cloud"/>
+
+  <!-- Gemini -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlegemini.svg" height="40" alt="Gemini"/>
+
+  <!-- NotebookLM -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/google.svg" height="40" alt="NotebookLM"/>
 </p>
+
  
 
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
