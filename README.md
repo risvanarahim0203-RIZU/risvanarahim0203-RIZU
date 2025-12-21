@@ -19,59 +19,49 @@
 ###
 
 <p align="left">
-  <!-- Excel -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="Excel"/>
-  
-  <!-- Power BI -->
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="40" alt="Power BI"/>
+## 🛠️ Tools, Technologies & Platforms
 
-  <!-- Databricks -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/databricks/databricks-original.svg" height="40" alt="Databricks"/>
+### 🧠 Data • AI • Analytics
+<p align="left">
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="38"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/databricks/databricks-original.svg" height="38"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" height="38"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlegemini.svg" height="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="38"/>
+</p>
 
-  <!-- ChatGPT -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" height="40" alt="ChatGPT"/>
+### 💻 Programming & Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" height="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38"/>
+  <img src="https://cdn.simpleicons.org/mysql/FFFFFF" height="38"/>
+  <img src="https://skillicons.dev/icons?i=github" height="38"/>
+</p>
 
-  <!-- Cloud -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="40" alt="Cloud"/>
+### 📊 Data Science & Machine Learning
+<p align="left">
+  <img src="https://cdn.simpleicons.org/numpy/FFFFFF" height="38"/>
+  <img src="https://cdn.simpleicons.org/pandas/FFFFFF" height="38"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="38"/>
+  <img src="https://cdn.simpleicons.org/pytorch/FFFFFF" height="38"/>
+</p>
 
-  <!-- Gemini -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlegemini.svg" height="40" alt="Gemini"/>
+### ☁️ Cloud & Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure" height="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="38"/>
+</p>
 
-  <!-- NotebookLM -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/google.svg" height="40" alt="NotebookLM"/>
+### 🎨 Design & Productivity
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ai" height="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="38"/>
+  <img src="https://cdn.simpleicons.org/notion/FFFFFF" height="38"/>
+  <img src="https://skillicons.dev/icons?i=discord" height="38"/>
 </p>
 
  
-
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/notion/000000" height="40" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
 </div>
 
 ###
