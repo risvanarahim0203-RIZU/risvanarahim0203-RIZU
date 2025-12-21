@@ -87,7 +87,7 @@
 
 ###
 
-![GitHub Snake Animation](https://risvanarahim0203-RIZU.github.io/risvanarahim0203-RIZU/github-contribution-grid-snake.svg)
+https://risvanarahim0203-RIZU.github.io/risvanarahim0203-RIZU/github-contribution-grid-snake.svg
 
 
 ###
