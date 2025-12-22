@@ -92,9 +92,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=risvanarahim0203-RIZU.risvanarahim0203-RIZU&"  />
-</div>
+
 
 ###
 
