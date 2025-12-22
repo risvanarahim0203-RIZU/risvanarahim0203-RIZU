@@ -1,8 +1,1 @@
-- uses: Platane/snk@v3
-        with:
-          # github user name to read the contribution graph from (**required**)
-          github_user_name: ${{ github.repository_owner }}
-          # list of files to generate.
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
