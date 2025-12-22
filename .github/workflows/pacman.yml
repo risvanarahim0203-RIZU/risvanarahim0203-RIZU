@@ -1,30 +1,26 @@
-name: Pac-Man Contribution Graph
+name: Generate Pacman Contribution Graph
 
-# Trigger daily and allow manual runs
 on:
   schedule:
-    - cron: "0 0 * * *"  # daily at midnight UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      # Checkout repository
-      - uses: actions/checkout@v3
-
-      # Generate Pac-Man Graph (light mode)
-      - name: Generate Pac-Man Graph (Light)
-        uses: platane/pacman@v1
+      - name: Generate Pacman graph
+        uses: platane/snk@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          output: ./output/pacman-contribution-graph.svg
-          dark: false
+          github_user_name: risvanarahim0203-RIZU
+          outputs: |
+            output/pacman-contribution-graph.svg
+            output/pacman-contribution-graph-dark.svg?palette=github-dark
 
-      # Generate Pac-Man Graph (dark mode)
-      - name: Generate Pac-Man Graph (Dark)
-        uses: platane/pacman@v1
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          output: ./output/pacman-contribution-graph-dark.svg
-          dark: true
+          target_branch: output
+          build_dir: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
