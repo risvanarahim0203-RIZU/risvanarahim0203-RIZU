@@ -25,6 +25,7 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
 </div>
 
+## 👩 Professional Profile
 
 Business and Data Analytics professional with a **Bachelor of Business Management (BBM)** and **5+ years of experience** across inventory operations, insurance claims, and financial administration. Proven ability to convert complex operational data into **actionable business intelligence** by bridging **ERP systems** with **modern analytics and AI-driven tools**.
 
@@ -47,6 +48,7 @@ Business and Data Analytics professional with a **Bachelor of Business Managemen
 
 ### 🎯 Career Focus
 Focused on **bridging traditional business operations with AI-powered business intelligence**, enabling organizations to transform raw operational data into strategic assets. Passionate about leveraging **SQL, Power BI, and advanced analytics platforms** to automate complex processes, improve decision accuracy, and deliver scalable insights for supply chain, finance, and enterprise operations.
+
 
 ###
 
