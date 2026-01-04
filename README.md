@@ -25,11 +25,28 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
 </div>
 
-<h2 align="left">About me.</h2>
 
-###
+Business and Data Analytics professional with a **Bachelor of Business Management (BBM)** and **5+ years of experience** across inventory operations, insurance claims, and financial administration. Proven ability to convert complex operational data into **actionable business intelligence** by bridging **ERP systems** with **modern analytics and AI-driven tools**.
 
-<p align="left">I am a Bachelor of Business Management (BBM) professional with 5 years of professional experience across inventory operations, insurance claims, and financial administration. My expertise lies in transforming operational data into strategic business assets by bridging traditional ERP mastery with modern, AI-powered analytical tools.<br><br>🎓 Business Foundation<br><br>Academic Qualification: Bachelor of Business Management from Mangalore University. Management Core: Thorough understanding of business administration principles , workflow planning , and general accounting. Operational Track Record: 5 years of proven success in high-volume environments at Gold Apple Box LLC , AIG Insurance , and Pure Health.<br><br>🛠️ Technical Ecosystem<br><br>Data & Business Analytics<br><br>Visualization: Developing interactive dashboards and financial reports for data-driven decisions. <br>Database Management: Querying and managing relational business data to ensure integrity. <br>Automation: Utilizing Python for streamlining repetitive data tasks and complex business logic.<br> Advanced Analytics: Implementing AI-powered business analysis and large-scale data processing.<br> Version Control: Managing analytical projects, VS Code environments, and collaborative workflows.<br><br>Enterprise Operations (ERP) & Ops<br><br>Core ERP Systems: Expert-level proficiency in Microsoft Dynamics AX (Axapta).<br><br>Specialized Platforms: Skilled in PREMIA, NAVINS, and OneView for claims and data management<br><br>Productivity & Audit: Advanced use of Microsoft 365 for audit readiness and process improvement.<br><br>💼 Career Focus<br><br>With a solid foundation in Business Management and 5 years of hands-on experience in high-stakes operational environments, my focus is on bridging the gap between traditional administration and AI-powered business intelligence. I am dedicated to transforming raw operational data into strategic assets—utilizing SQL and Power BI to automate complex reconciliation processes and Databricks to deliver predictive business insights. My goal is to drive organizational efficiency by ensuring 100% data accuracy and implementing scalable, tech-driven solutions for modern supply chain and financial challenges.</p>
+### 🎓 Business Foundation
+- **Academic Qualification:** Bachelor of Business Management — *Mangalore University*  
+- **Management Expertise:** Strong grounding in business operations, workflow optimization, and general accounting  
+- **Operational Experience:** Delivered results in high-volume, regulated environments including **Gold Apple Box LLC**, **AIG Insurance**, and **Pure Health**
+
+### 🛠️ Technical & Analytics Capability
+- **Business Intelligence:** Design of interactive dashboards and executive-ready reports using **Power BI**  
+- **Data Management:** Structured querying and validation of relational datasets to ensure accuracy and audit readiness  
+- **Automation & Analytics:** Python-based automation for reconciliation, reporting, and operational efficiency  
+- **AI-Enabled Analysis:** Application of modern analytics techniques for scalable business insights  
+- **Version Control & Tooling:** Project management using **GitHub**, **VS Code**, and collaborative workflows
+
+### 🏢 Enterprise Systems & Operations
+- **ERP Expertise:** Advanced proficiency in **Microsoft Dynamics AX (Axapta)**  
+- **Industry Platforms:** Hands-on experience with **PREMIA**, **NAVINS**, and **OneView** for claims and operational data  
+- **Productivity & Compliance:** Advanced use of **Microsoft 365** to support audits, reporting, and process improvement
+
+### 🎯 Career Focus
+Focused on **bridging traditional business operations with AI-powered business intelligence**, enabling organizations to transform raw operational data into strategic assets. Passionate about leveraging **SQL, Power BI, and advanced analytics platforms** to automate complex processes, improve decision accuracy, and deliver scalable insights for supply chain, finance, and enterprise operations.
 
 ###
 
